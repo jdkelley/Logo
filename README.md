@@ -1,4 +1,4 @@
-![High Country Angular](ngHighCountry.svg)
+![High Country Angular](ngHighCountry-with-name.svg)
 
 # ngHighCountry Logo and Assets
 
