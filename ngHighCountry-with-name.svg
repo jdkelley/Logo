@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="309px" height="329px" viewBox="0 0 309 329" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ngHighCountry</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="400" height="400"></rect>
+        <polygon id="path-3" points="199.722222 50 199.722222 50 199.722222 50 60.2372931 99.7411348 81.5121158 284.172872 199.722222 349.64539 199.722222 349.64539 199.722222 349.64539 317.932329 284.172872 339.207151 99.7411348"></polygon>
+        <filter x="-7.9%" y="-6.7%" width="115.8%" height="114.7%" filterUnits="objectBoundingBox" id="filter-5">
+            <feMorphology radius="3" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M199.635112,69 L121,246 L121,246 L150.319277,246 L150.319277,246 L166.127367,206.395402 L232.872633,206.395402 L248.680723,246 L248.680723,246 L278,246 L278,246 L199.635112,69 L199.635112,69 L199.635112,69 L199.635112,69 L199.635112,69 Z M222.604131,181.981609 L176.666093,181.981609 L199.635112,126.508046 L222.604131,181.981609 Z" id="path-6"></path>
+        <filter x="-9.2%" y="-8.2%" width="119.7%" height="117.5%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.764705882   0 0 0 0 0   0 0 0 0 0.184313725  0 0 0 0.75 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-8" font-family="AvenirNext-DemiBold, Avenir Next" font-size="22" font-weight="500" letter-spacing="-0.75999999">
+            <tspan x="97.0159999" y="277">High Country Angula</tspan>
+            <tspan x="295.976" y="277">r</tspan>
+        </text>
+        <filter x="-1.7%" y="-8.3%" width="103.4%" height="123.3%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.8 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="ngHighCountry" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-45.000000, -37.500000)" id="400-300">
+            <g>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="canvas"></g>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <g id="shield" fill-rule="nonzero">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-3"></use>
+                    <path stroke="#FFFFFF" stroke-width="3" d="M199.722222,48.4074777 L340.833884,98.7287148 L319.334033,285.111225 L199.722222,351.360099 L80.1104112,285.111225 L58.6105603,98.7287148 L199.722222,48.4074777 Z" fill="#DD0031" fill-rule="evenodd"></path>
+                </g>
+                <polygon id="shield-shade" fill="#C3002F" fill-rule="nonzero" mask="url(#mask-4)" points="199.444444 83.3 199.444444 235.1 199.444444 350 317.794444 284.45 339.094444 99.8 199.444444 50"></polygon>
+                <path d="M154.391602,159.476562 C139.250418,158.277081 114.141602,159.958008 96.3496094,166.552734 C78.1741293,173.289603 68.087756,181.167396 61.6897975,186.023069 C55.632883,190.61991 32.373073,186.71699 30.8761062,194.902817 C25.7723003,222.811833 65.4291408,273.507203 65.4291408,273.507203 L143.976595,276.837698 L230.300832,280.497936 C230.300832,280.497936 343.492791,285.440978 382.704336,286.530374 C421.91588,287.619769 481.388889,133.420213 481.388889,133.420213 C481.388889,133.420213 437.785817,157.615898 397.765515,172.920614 C363.503906,186.023069 333.339844,190.659428 305.848401,190.659428 C279.85109,190.659428 248.492752,183.410162 235.217175,179.628685 C194.61048,168.062088 179.900381,161.497362 154.391602,159.476562 Z" id="hill-5" fill="#EE8098" mask="url(#mask-4)"></path>
+                <path d="M249.186663,201.349291 C242.804373,201.349291 200.431641,205.506836 171.264755,217.52301 C142.097869,229.539184 133.238787,230.59024 132.168945,236.44043 C128.521393,256.386249 182.790113,284.903686 182.790113,284.903686 L238.925856,287.283901 L300.619456,289.899774 C300.619456,289.899774 381.514691,293.432433 409.538122,294.210994 C437.561554,294.989556 400.205327,261.943359 400.205327,261.943359 C400.205327,261.943359 343.272601,216.183323 335.123148,213.017169 C309.391322,203.020065 262.740598,201.349291 249.186663,201.349291 Z" id="hill-4" fill="#F199AC" mask="url(#mask-4)"></path>
+                <path d="M18.7553669,232.283114 C-15.9441387,253.520058 -0.949719706,336.162238 -0.949719706,336.162238 L181.170973,343.884347 C181.170973,343.884347 306.205162,349.344534 349.519048,350.547903 C372.323777,351.181476 378.602968,337.975098 379.436484,325.326589 C380.186097,313.951305 376.5312,303.027231 376.5312,303.027231 C376.5312,303.027231 335.811009,275.529752 254.116816,254.1015 C194.599609,238.490234 181.251666,207.710142 134.230469,201.535156 C87.2092715,195.36017 58.1289063,208.185547 18.7553669,232.283114 Z" id="hill-3" fill="#F4B3C1" mask="url(#mask-4)"></path>
+                <path d="M117.567321,335.560172 C84.1252158,335.560172 -33.7163046,284.020168 -53.588025,299.101631 C-98.9317186,333.514819 -174.834515,370.952148 -174.834515,370.952148 L105.082269,382.820914 C105.082269,382.820914 297.257949,391.21314 363.830745,393.0627 C430.403542,394.91226 405.348019,320.024136 405.348019,320.024136 C405.348019,320.024136 458.803085,286.520228 363.830745,250.249022 C361.81266,249.478289 349.958193,238.9263 348.122772,238.272392 C316.603516,227.042969 278.058594,232.096698 245.611275,250.249022 C213.163956,268.401346 198.820312,292.560547 177.167969,307.019531 C132.39208,336.919938 140.949771,335.560172 117.567321,335.560172 Z" id="hill-2" fill="#F8CCD5" mask="url(#mask-4)"></path>
+                <path d="M125.571245,271.765957 C90.2402344,265.064453 53.5949628,279.758373 38.6020822,291.137084 C4.39102407,317.101259 15.7514823,411.598382 15.7514823,411.598382 L226.944013,420.553168 C226.944013,420.553168 371.937348,426.884962 422.165409,428.280424 C472.39347,429.675886 453.489497,373.17405 453.489497,373.17405 C453.489497,373.17405 335.382055,351.838431 259.513293,326.669215 C183.644531,301.5 168.791903,279.963952 125.571245,271.765957 Z" id="hill-1-front" fill="#FBE6EA" mask="url(#mask-4)"></path>
+                <g id="A-Copy" mask="url(#mask-4)" fill-rule="nonzero">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-6"></use>
+                </g>
+                <g id="High-Country-Angular" mask="url(#mask-4)" fill="#C3002F">
+                    <use fill-opacity="1" filter="url(#filter-9)" xlink:href="#text-8"></use>
+                    <use fill-rule="evenodd" xlink:href="#text-8"></use>
+                    <use fill-opacity="1" xlink:href="#text-8"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
