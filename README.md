@@ -4,7 +4,9 @@
 
 Our branding logo, art, and assets can be found here.
 
-Check out out [homepage](http://highcountryangular.com).
+Check out out [homepage](https://nghighcountry.github.io/HighCountryAngular/).
+
+Thanks to [Joshua Kelley](https://github.com/jdkelley) for developing the logo!
 
 ## License
 
